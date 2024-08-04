@@ -3,3 +3,7 @@ name: coming-soon
 owner: pack-pink
 package: .
 app_id: da_KgYIZt9UEyMR
+
+
+domains:
+  - pack.pink
